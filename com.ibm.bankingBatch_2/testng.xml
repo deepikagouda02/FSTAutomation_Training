@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" parallel="tests" name="Suite">
+
+  <test thread-count="5" name="Edgetest">
+  <parameter name="ibm_browser" value="edge"></parameter>
+  
+    <classes>
+      <class name="crossbrowserTesting.HRMLoginTest"/>
+    </classes>
+  </test> 
+  
+  <test thread-count="5" name="Chrometest">
+  <parameter name="ibm_browser" value="chrome"></parameter>
+  
+    <classes>
+      <class name="crossbrowserTesting.HRMLoginTest"/>
+    </classes>
+  </test> 
+  
+  
+</suite> 
+

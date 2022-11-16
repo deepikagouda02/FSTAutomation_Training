@@ -1,0 +1,72 @@
+2022-10-26 23:51:14,846 [main] INFO NOP Comm Login - launching chrome browser.
+2022-10-26 23:51:22,047 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-26 23:51:23,170 [main] INFO NOP Comm Login - clear text from username field.
+2022-10-26 23:51:23,280 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-10-26 23:51:23,430 [main] INFO NOP Comm Login - clear text from password field.
+2022-10-26 23:51:23,499 [main] INFO NOP Comm Login - enter value into password: admin
+2022-10-26 23:51:23,595 [main] INFO NOP Comm Login - click on checkbox
+2022-10-26 23:51:23,674 [main] INFO NOP Comm Login - click on Login button.
+2022-10-26 23:51:26,849 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-10-26 23:51:26,861 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-10-26 23:51:26,876 [main] INFO NOP Comm Login - click on Logout button.
+2022-10-26 23:51:28,536 [main] INFO NOP Comm Login - closing chrome browser.
+2022-10-27 00:13:57,756 [main] INFO NOP Comm Login - launching chrome browser.
+2022-10-27 00:14:00,840 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 00:14:01,910 [main] INFO NOP Comm Login - clear text from username field.
+2022-10-27 00:14:02,011 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-10-27 00:14:02,135 [main] INFO NOP Comm Login - clear text from password field.
+2022-10-27 00:14:02,240 [main] INFO NOP Comm Login - enter value into password: admin
+2022-10-27 00:14:02,335 [main] INFO NOP Comm Login - click on checkbox
+2022-10-27 00:14:02,429 [main] INFO NOP Comm Login - click on Login button.
+2022-10-27 00:14:05,000 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-10-27 00:14:05,012 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-10-27 00:14:05,023 [main] INFO NOP Comm Login - click on Logout button.
+2022-10-27 00:14:06,766 [main] INFO NOP Comm Login - closing chrome browser.
+2022-10-27 23:45:43,535 [main] INFO NOP Comm Login - launching chrome browser.
+2022-10-27 23:45:47,255 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 23:45:48,328 [main] INFO NOP Comm Login - clear text from username field.
+2022-10-27 23:45:48,429 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-10-27 23:45:48,533 [main] INFO NOP Comm Login - clear text from password field.
+2022-10-27 23:45:48,630 [main] INFO NOP Comm Login - enter value into password: admin
+2022-10-27 23:45:48,711 [main] INFO NOP Comm Login - click on checkbox
+2022-10-27 23:45:48,784 [main] INFO NOP Comm Login - click on Login button.
+2022-10-27 23:45:51,826 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-10-27 23:45:51,839 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-10-27 23:45:51,857 [main] INFO NOP Comm Login - click on Logout button.
+2022-10-27 23:45:52,935 [main] INFO NOP Comm Login - closing chrome browser.
+2022-11-02 06:21:08,159 [main] INFO NOP Comm Login - launching chrome browser.
+2022-11-02 06:21:14,204 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 06:21:15,234 [main] INFO NOP Comm Login - clear text from username field.
+2022-11-02 06:21:15,332 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-11-02 06:21:15,417 [main] INFO NOP Comm Login - clear text from password field.
+2022-11-02 06:21:15,487 [main] INFO NOP Comm Login - enter value into password: admin
+2022-11-02 06:21:15,552 [main] INFO NOP Comm Login - click on checkbox
+2022-11-02 06:21:15,615 [main] INFO NOP Comm Login - click on Login button.
+2022-11-02 06:21:18,802 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-11-02 06:21:18,827 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-11-02 06:21:18,839 [main] INFO NOP Comm Login - click on Logout button.
+2022-11-02 06:21:19,987 [main] INFO NOP Comm Login - closing chrome browser.
+2022-11-03 00:13:58,207 [main] INFO NOP Comm Login - launching chrome browser.
+2022-11-03 00:14:03,596 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-03 00:14:04,656 [main] INFO NOP Comm Login - clear text from username field.
+2022-11-03 00:14:04,765 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-11-03 00:14:04,905 [main] INFO NOP Comm Login - clear text from password field.
+2022-11-03 00:14:05,014 [main] INFO NOP Comm Login - enter value into password: admin
+2022-11-03 00:14:05,095 [main] INFO NOP Comm Login - click on checkbox
+2022-11-03 00:14:05,166 [main] INFO NOP Comm Login - click on Login button.
+2022-11-03 00:14:08,361 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-11-03 00:14:08,411 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-11-03 00:14:08,443 [main] INFO NOP Comm Login - click on Logout button.
+2022-11-03 00:14:09,634 [main] INFO NOP Comm Login - closing chrome browser.
+2022-11-10 06:10:09,737 [main] INFO NOP Comm Login - launching chrome browser.
+2022-11-10 06:10:18,091 [main] INFO NOP Comm Login - launching Application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-10 06:10:20,518 [main] INFO NOP Comm Login - clear text from username field.
+2022-11-10 06:10:20,639 [main] INFO NOP Comm Login - enter value into username: admin@yourstore.com
+2022-11-10 06:10:20,763 [main] INFO NOP Comm Login - clear text from password field.
+2022-11-10 06:10:20,865 [main] INFO NOP Comm Login - enter value into password: admin
+2022-11-10 06:10:20,960 [main] INFO NOP Comm Login - click on checkbox
+2022-11-10 06:10:21,052 [main] INFO NOP Comm Login - click on Login button.
+2022-11-10 06:10:32,167 [main] INFO NOP Comm Login - Validation of app title after login.
+2022-11-10 06:10:32,195 [main] INFO NOP Comm Login - App Title: Dashboard / nopCommerce administration
+2022-11-10 06:10:32,217 [main] INFO NOP Comm Login - click on Logout button.
+2022-11-10 06:10:33,586 [main] INFO NOP Comm Login - closing chrome browser.
